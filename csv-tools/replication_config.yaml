@@ -1,0 +1,9 @@
+---
+columns:
+  - name:abc
+    action:replace
+    value:new
+  - name:bcd
+    action:prefix
+  - name:cde
+    action:increment
